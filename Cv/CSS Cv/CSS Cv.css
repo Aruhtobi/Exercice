@@ -1,0 +1,132 @@
+body{background-color:black;
+    background-image: url(https://framapiaf.s3.framasoft.org/framapiaf/media_attachments/files/000/054/932/original/36f955e963a448e6.jpg);
+    
+    
+}
+    img{display:block;
+        margin-left:auto;
+        margin-right:auto;
+        width:30%;
+        float:left;
+}
+            
+    h1{color:white;
+        text-align: center;
+       font-size:40px}
+    h2{color:white;
+       font-size:35px;
+        padding-left: 25px;
+        text-align: center;
+}
+h3{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    color:white
+}
+section{
+    font-size:18px;
+    font-family: Georgia;
+}
+div{
+    padding-left:25px;
+}
+h3,ul{
+    color:white;
+    list-style-type: none
+}
+#Div1{
+    background-color:#FFEBB3;
+    border-radius: 15px;
+    width:30%;
+-moz-border-radius: 10px;
+ -webkit-border-radius: 10px;
+ box-shadow: 8px 8px 12px #aaa;
+ -moz-box-shadow: 8px 8px 12px #aaa;
+ -webkit-box-shadow: 8px 8px 12px #aaa;
+    float:left;
+}
+#Div1 h3{
+    color:black;
+}
+#Div1 ul{
+    color:black;
+    padding-left:10px;
+}
+#Div2{
+    background-color:#FFEBB3;
+    border-radius:15px;
+    width:30%;
+    -moz-border-radius: 10px;
+    -webkit-border-radius:10px;
+    box-shadow: 8px 8px 12px #aaa;
+    -moz-box-shadow: 8px 8px 12px #aaa;
+    -webkit-box-shadow: 8px 8px 12px #aaa;
+    float:right;
+}
+#Div2 h3{
+    color:black;
+}
+#Div2 ul{
+    color:black;
+    font-size:80%;
+    padding-left:10px;    
+}
+#Div3{
+    background-color:#FFEBB3;
+    border-radius:15px;
+    width:30%;
+    -moz-border-radius: 10px;
+    -webkit-border-radius:10px;
+    box-shadow: 8px 8px 12px #aaa;
+    -moz-box-shadow: 8px 8px 12px #aaa;
+    -webkit-box-shadow: 8px 8px 12px #aaa;
+    float:left;
+    margin-top: 15px;
+    position:
+}
+
+#Div3 h3{
+    color:black
+}
+#Div3 ul{
+    color:black;
+}
+#Div4{
+    background-color:#FFEBB3;
+    border-radius:15px;
+    width:30%;
+    -moz-border-radius: 10px;
+    -webkit-border-radius:10px;
+    box-shadow: 8px 8px 12px #aaa;
+    -moz-box-shadow: 8px 8px 12px #aaa;
+    -webkit-box-shadow: 8px 8px 12px #aaa;
+    float:right;
+    margin-top: 15px;
+}
+#Div4 h3{
+    color:black;
+}
+#Div4 ul{
+    color:black;
+}
+#Div5{
+    background-color:#FFEBB3;
+    border-radius:15px;
+    width:30%;
+    -moz-border-radius: 10px;
+    -webkit-border-radius:10px;
+    box-shadow: 8px 8px 12px #aaa;
+    -moz-box-shadow: 8px 8px 12px #aaa;
+    -webkit-box-shadow: 8px 8px 12px #aaa;
+    float:right;
+    margin-top: 20px;
+    margin-right: -200px
+}
+#Div5 h3{
+    color:black;
+}
+#Div5 ul{
+    color:black;
+}
+#
