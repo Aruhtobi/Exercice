@@ -44,7 +44,8 @@ h3,ul{
  box-shadow: 8px 8px 12px #aaa;
  -moz-box-shadow: 8px 8px 12px #aaa;
  -webkit-box-shadow: 8px 8px 12px #aaa;
-    float:left;
+    float:center;
+    margin-left:50%
 }
 #Div1 h3{
     color:black;
@@ -62,7 +63,8 @@ h3,ul{
     box-shadow: 8px 8px 12px #aaa;
     -moz-box-shadow: 8px 8px 12px #aaa;
     -webkit-box-shadow: 8px 8px 12px #aaa;
-    float:right;
+    float:center;
+    margin-left:50%;
 }
 #Div2 h3{
     color:black;
@@ -81,9 +83,9 @@ h3,ul{
     box-shadow: 8px 8px 12px #aaa;
     -moz-box-shadow: 8px 8px 12px #aaa;
     -webkit-box-shadow: 8px 8px 12px #aaa;
-    float:left;
+    float:center;
     margin-top: 15px;
-    position:
+    margin-left: 50%;
 }
 
 #Div3 h3{
@@ -101,8 +103,9 @@ h3,ul{
     box-shadow: 8px 8px 12px #aaa;
     -moz-box-shadow: 8px 8px 12px #aaa;
     -webkit-box-shadow: 8px 8px 12px #aaa;
-    float:right;
+    float:center;
     margin-top: 15px;
+    margin-left: 50%;
 }
 #Div4 h3{
     color:black;
@@ -119,9 +122,9 @@ h3,ul{
     box-shadow: 8px 8px 12px #aaa;
     -moz-box-shadow: 8px 8px 12px #aaa;
     -webkit-box-shadow: 8px 8px 12px #aaa;
-    float:right;
+    float:center;
     margin-top: 20px;
-    margin-right: -200px
+    margin-left:50%;
 }
 #Div5 h3{
     color:black;
@@ -129,4 +132,7 @@ h3,ul{
 #Div5 ul{
     color:black;
 }
-#
+.dropdown{
+    float:left;
+    margin-left:15%;
+}
