@@ -36,5 +36,13 @@ li{
 }
 
 a {color: white;}
-
+.spinner-border{
+    color:white;
+    margin-left:50%;
+    margin-top:200%;
+}
+#done{
+    width:100px;
+    transform: rotateX(150deg);
+}
 

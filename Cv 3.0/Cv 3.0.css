@@ -1,0 +1,24 @@
+body {
+        background-image: url(https://framapiaf.s3.framasoft.org/framapiaf/media_attachments/files/000/054/932/original/36f955e963a448e6.jpg);
+}
+.navbar{
+    color:white;
+}
+nav a{
+    color:white;
+}
+.navbar-brand{
+    color:white;
+}
+h4{
+    color:white
+}
+div{
+    background-color:black;
+    margin-bottom:10%;
+    border-radius:
+}
+#InformationPersonnelle{
+    margin-top: 70px;
+    margin-bottom: 100px
+}

@@ -1,3 +1,52 @@
-ul{
-    float:center
+body{
+    background-color:beige;
+    background-image: url(https://framapiaf.s3.framasoft.org/framapiaf/media_attachments/files/000/054/932/original/36f955e963a448e6.jpg);
 }
+
+.navbar{
+    background-image: url(https://framapiaf.s3.framasoft.org/framapiaf/media_attachments/files/000/054/932/original/36f955e963a448e6.jpg);
+}
+
+#Color{
+    color:white;
+    font-family: Georgia;
+    font-size:200%
+}
+.nav-item{
+    font-size:50%;
+    margin-left:5%;
+    color:white
+}
+.accordion, .accordion-button{
+    background-color:transparent;
+    color:white;
+    width:66%;
+    margin-left:18%;
+    margin-top:6%;
+    text-align:center;
+    font-size:30px;
+    letter-spacing:1px
+}
+li{
+    list-style-type:none;
+}
+.info{
+    padding-top:50px;
+    color:white;
+}
+
+a {color: white;}
+.spinner-border{
+    color:white;
+    margin-left:50%;
+    margin-top:15%;
+    animation: 0.1s linear infinite spinner-border;
+}
+#done{
+    width:50px;
+    transform: rotateX(150deg);
+}
+@keyframes spinner-border {
+    to {     
+        transform: rotate(360deg) ;   
+    }
