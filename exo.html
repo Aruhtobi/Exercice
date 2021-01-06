@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            h1{
+                text-align:center;
+            }
+            h4{
+                text-align:center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Nous lançons une grande enquête sur les anciens Stagiaires.</h1>
+        <br>
+        <h4>merci de nous répondre</h4>
+        <form method="get">
+            <p>
+                <input type="text" name="nom" required>
+                Votre nom
+                <br>
+                <input type="text" name="prénom" required>
+                Votre prénom
+                <br>
+                <input type="text" name="date de naissance" required>
+                Votre date de naissance
+                <br>
+                <input type="text" name="adresse" required>
+                Votre adresse
+                <br>
+                <input type="text" name="ville" required>
+                Votre ville
+                <br>
+                <input type="text" name="code postal" required>
+                Votre code postal
+                <br>
+                <input type="email" name="mail" required>
+                Votre E-mail
+                <br>
+                <input type="radio" name="sexe" value="Vous êtes un homme" checked="checked">
+                Vous êtes un homme
+                <input type="radio" name="sexe" value="Vous êtes un femme">
+                Vous êtes un femme
+                <input type="radio" name="sexe" value="Autre">
+                Autre
+                <br>
+                <select name="role">
+                    <option value="Développeur" selected="selected">Développeur</option>
+                    <option value="Analyste">Analyste</option>
+                    <option value="Chef de projet">Chef de projet</option>
+                    <option value="Autre">Autre</option>
+                </select>
+                <br>
+                <input type="text" name="autre">
+                Si vous avez répondu autre, précisez
+            <p>
+                <select name="salaire">
+                    <option value="<1000€" selected="selected">&lt;1000€</option>
+                    <option value=">1000€ et <1500€">>1000€ et &lt;1500€</option>
+                    <option value=">1500€ et <2000€">>1500€ et &lt;2000€</option>
+                    <option value=">2000€">>2000€</option>
+                </select>
+                <br>
+                <input type="text" name="autre">
+                En quelle année avez-vous suivi le stage AFPA
+                <p>
+                    <textarea rows="5" cols="30" placeholder="Vos commentaires">Vos commentaires</textarea>
+            <h3>Merci d'avoir répondu au questionnaire</h3>
+            <input type="submit" value="Valider">
+            <input type="reset" value="Annuler">
+        </form>
+    </body>
+</html>
