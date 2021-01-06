@@ -3,6 +3,7 @@ body {
 }
 .navbar{
     color:white;
+    margin-bottom:5px
 }
 nav a{
     color:white;
@@ -13,12 +14,9 @@ nav a{
 h4{
     color:white
 }
-div{
-    background-color:black;
-    margin-bottom:10%;
-    border-radius:
+#Compétences{
+    color:black;
 }
-#InformationPersonnelle{
-    margin-top: 70px;
-    margin-bottom: 100px
+.box4{
+    color:white;
 }
